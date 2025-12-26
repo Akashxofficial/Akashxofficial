@@ -6,13 +6,13 @@ A passionate Software Developer from Jaipur, Rajasthan, India
 - 🌱 I’m currently learning Advanced Backend, System Design & AI integrations  
 - 💬 Ask me about React.js, Node.js, Express.js, MongoDB, PostgreSQL  
 - 📫 How to reach me: akashxofficial.in@gmail.com  
-- 📄 Know about my experiences: https://github.com/akashdas (replace with resume link if any)
+- 📄 Know about my experiences: https://drive.google.com/file/d/1SYOT4cGirJRffl07x1w9C_NqWV1mhXxS/view 
 
 ---
 
 ### Connect with me:
-- 💼 LinkedIn: https://www.linkedin.com/in/akash-das  
-- 💻 GitHub: https://github.com/akashdas  
+- 💼 LinkedIn: https://www.linkedin.com/in/akash-web-d/
+- 💻 LeetCode: https://leetcode.com/u/Akashxofficial/
 
 ---
 # 💻 Tech Stack:
